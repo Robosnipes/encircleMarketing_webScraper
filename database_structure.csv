@@ -1,0 +1,10 @@
+column,dtype
+id,object
+brand,object
+pattern,object
+grip,object
+fuel_efficiency,object
+seasonality,object
+price,object
+date,object
+source,object
