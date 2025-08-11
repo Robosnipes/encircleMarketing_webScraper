@@ -1,5 +1,5 @@
 column,dtype
-id,object
+id,int64
 brand,object
 pattern,object
 grip,object
@@ -8,3 +8,4 @@ seasonality,object
 price,object
 date,object
 source,object
+
